@@ -1,0 +1,280 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Grid</title>
+    <link>/</link>
+    <description>Recent content on Grid</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en-us</language>
+    <copyright>Copyright &amp;#169; by Your Name</copyright>
+    <lastBuildDate>Tue, 18 Aug 2020 00:00:00 +0000</lastBuildDate>
+    
+	<atom:link href="/index.xml" rel="self" type="application/rss+xml" />
+    
+    
+    <item>
+      <title>Video</title>
+      <link>/project/video/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>/project/video/</guid>
+      <description>Videos can be provided via:
+video_mp4 = &amp;quot;/vid/vid_480x320.mp4&amp;quot;video_webm = &amp;quot;/vid/vid_480x320.webm&amp;quot;video_ogv = &amp;quot;/vid/vid_480x320.ogv&amp;quot;video_3gp = &amp;quot;/vid/vid_352x288.3gp&amp;quot;video_fallback = &amp;quot;/img/car.jpg&amp;quot;Each value is optional. If the fallback image is provided, it will be used as both the poster of the video and the fallback if the browser does not support HTML5 video.
+You can use the partial for a video via:
+.Scratch.Set &amp;quot;class&amp;quot; &amp;quot;some extra CSS classes on video tag&amp;quot;{{ partial &amp;quot;extra/video.</description>
+    </item>
+    
+    <item>
+      <title>oT2008 / 80x120 / Acryl / 480 €</title>
+      <link>/abstrakt/ot2008/</link>
+      <pubDate>Tue, 18 Aug 2020 00:00:00 +0000</pubDate>
+      
+      <guid>/abstrakt/ot2008/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Schwarzwald</title>
+      <link>/post/schwarzwald/</link>
+      <pubDate>Sat, 01 Aug 2020 21:18:53 +0200</pubDate>
+      
+      <guid>/post/schwarzwald/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>skifahren</title>
+      <link>/post/skifahren/</link>
+      <pubDate>Sat, 01 Aug 2020 21:18:53 +0200</pubDate>
+      
+      <guid>/post/skifahren/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>stuttgart</title>
+      <link>/post/stuttgart/</link>
+      <pubDate>Sat, 01 Aug 2020 21:18:53 +0200</pubDate>
+      
+      <guid>/post/stuttgart/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Junge/ 80x120 / Acryl / 1500 €</title>
+      <link>/portrait/01_fluss/</link>
+      <pubDate>Wed, 14 Nov 2018 00:00:00 +0000</pubDate>
+      
+      <guid>/portrait/01_fluss/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Linien 1 / 20x30 / Aquarell / 30 €</title>
+      <link>/zeichnen/01_fluss/</link>
+      <pubDate>Wed, 14 Nov 2018 00:00:00 +0000</pubDate>
+      
+      <guid>/zeichnen/01_fluss/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>oT 1810 / 80x120 / Acryl / 480 €</title>
+      <link>/abstrakt/ot1810/</link>
+      <pubDate>Wed, 14 Nov 2018 00:00:00 +0000</pubDate>
+      
+      <guid>/abstrakt/ot1810/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Petroglypen 10 / 80x80 / Acryl / 320 €</title>
+      <link>/petroglyphen/037/</link>
+      <pubDate>Wed, 14 Nov 2018 00:00:00 +0000</pubDate>
+      
+      <guid>/petroglyphen/037/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Schwenninger Moos / 20x30 / Aquarell / 30 €</title>
+      <link>/landschaft/01_fluss/</link>
+      <pubDate>Wed, 14 Nov 2018 00:00:00 +0000</pubDate>
+      
+      <guid>/landschaft/01_fluss/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>oT 1710 / 80x80 / Acryl / 320 €</title>
+      <link>/abstrakt/ot1710/</link>
+      <pubDate>Sun, 22 Oct 2017 00:00:00 +0000</pubDate>
+      
+      <guid>/abstrakt/ot1710/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>04 kaefer / 60x60 / Acryl / 450 €</title>
+      <link>/abstrakt/04_kaefer/</link>
+      <pubDate>Fri, 20 Oct 2017 00:00:00 +0000</pubDate>
+      
+      <guid>/abstrakt/04_kaefer/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>05 Spalte 1 / 60x60 / Acryl / 450 €</title>
+      <link>/abstrakt/05_spalte1/</link>
+      <pubDate>Fri, 20 Oct 2017 00:00:00 +0000</pubDate>
+      
+      <guid>/abstrakt/05_spalte1/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>lb1910/ 20x30 / Aquarell / 30 €</title>
+      <link>/landschaft/lb1910/</link>
+      <pubDate>Fri, 20 Oct 2017 00:00:00 +0000</pubDate>
+      
+      <guid>/landschaft/lb1910/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Linien 2 / 20x30 / Aquarell / 30 €</title>
+      <link>/zeichnen/02_rot/</link>
+      <pubDate>Fri, 20 Oct 2017 00:00:00 +0000</pubDate>
+      
+      <guid>/zeichnen/02_rot/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Mann / 20x30 / Aquarell / 30 €</title>
+      <link>/portrait/02_rot/</link>
+      <pubDate>Fri, 20 Oct 2017 00:00:00 +0000</pubDate>
+      
+      <guid>/portrait/02_rot/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Petroglypen 10 / 80x80 / Acryl / 320 €</title>
+      <link>/petroglyphen/02_rot/</link>
+      <pubDate>Fri, 20 Oct 2017 00:00:00 +0000</pubDate>
+      
+      <guid>/petroglyphen/02_rot/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Another Car</title>
+      <link>/project/anothercar/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>/project/anothercar/</guid>
+      <description>Project content would go here. You can also redirect using the front matter redirect = &amp;quot;url&amp;quot;.</description>
+    </item>
+    
+    <item>
+      <title>Another Cup</title>
+      <link>/project/anothercup/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>/project/anothercup/</guid>
+      <description>Project content would go here. You can also redirect using the front matter redirect = &amp;quot;url&amp;quot;.</description>
+    </item>
+    
+    <item>
+      <title>Car</title>
+      <link>/project/car/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>/project/car/</guid>
+      <description>Project content would go here. You can also redirect using the front matter redirect = &amp;quot;url&amp;quot;.</description>
+    </item>
+    
+    <item>
+      <title>Cup</title>
+      <link>/project/cup/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>/project/cup/</guid>
+      <description>Project content would go here. You can also redirect using the front matter redirect = &amp;quot;url&amp;quot;.</description>
+    </item>
+    
+    <item>
+      <title>Drone</title>
+      <link>/project/anotherdrone/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>/project/anotherdrone/</guid>
+      <description>Project content would go here. You can also redirect using the front matter redirect = &amp;quot;url&amp;quot;.</description>
+    </item>
+    
+    <item>
+      <title>Drone</title>
+      <link>/project/drone/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>/project/drone/</guid>
+      <description>Project content would go here. You can also redirect using the front matter redirect = &amp;quot;url&amp;quot;.</description>
+    </item>
+    
+    <item>
+      <title>Food</title>
+      <link>/project/anotherfood/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>/project/anotherfood/</guid>
+      <description>Project content would go here. You can also redirect using the front matter redirect = &amp;quot;url&amp;quot;.</description>
+    </item>
+    
+    <item>
+      <title>Food</title>
+      <link>/project/food/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>/project/food/</guid>
+      <description>Project content would go here. You can also redirect using the front matter redirect = &amp;quot;url&amp;quot;.</description>
+    </item>
+    
+    <item>
+      <title>Jars</title>
+      <link>/project/anotherjars/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>/project/anotherjars/</guid>
+      <description>Project content would go here. You can also redirect using the front matter redirect = &amp;quot;url&amp;quot;.</description>
+    </item>
+    
+    <item>
+      <title>Jars</title>
+      <link>/project/jars/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>/project/jars/</guid>
+      <description>Project content would go here. You can also redirect using the front matter redirect = &amp;quot;url&amp;quot;.</description>
+    </item>
+    
+    <item>
+      <title>Phone</title>
+      <link>/project/anotherphone/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>/project/anotherphone/</guid>
+      <description>Project content would go here. You can also redirect using the front matter redirect = &amp;quot;url&amp;quot;.</description>
+    </item>
+    
+    <item>
+      <title>Phone</title>
+      <link>/project/phone/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>/project/phone/</guid>
+      <description>Project content would go here. You can also redirect using the front matter redirect = &amp;quot;url&amp;quot;.</description>
+    </item>
+    
+  </channel>
+</rss>

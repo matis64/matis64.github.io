@@ -1,0 +1,34 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Petroglyphens on Grid</title>
+    <link>/petroglyphen/</link>
+    <description>Recent content in Petroglyphens on Grid</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en-us</language>
+    <copyright>Copyright &amp;#169; by Your Name</copyright>
+    <lastBuildDate>Wed, 14 Nov 2018 00:00:00 +0000</lastBuildDate>
+    
+	<atom:link href="/petroglyphen/index.xml" rel="self" type="application/rss+xml" />
+    
+    
+    <item>
+      <title>Petroglypen 10 / 80x80 / Acryl / 320 €</title>
+      <link>/petroglyphen/037/</link>
+      <pubDate>Wed, 14 Nov 2018 00:00:00 +0000</pubDate>
+      
+      <guid>/petroglyphen/037/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Petroglypen 10 / 80x80 / Acryl / 320 €</title>
+      <link>/petroglyphen/02_rot/</link>
+      <pubDate>Fri, 20 Oct 2017 00:00:00 +0000</pubDate>
+      
+      <guid>/petroglyphen/02_rot/</guid>
+      <description></description>
+    </item>
+    
+  </channel>
+</rss>

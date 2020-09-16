@@ -1,0 +1,61 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Abstrakts on Grid</title>
+    <link>/abstrakt/</link>
+    <description>Recent content in Abstrakts on Grid</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en-us</language>
+    <copyright>Copyright &amp;#169; by Your Name</copyright>
+    <lastBuildDate>Tue, 18 Aug 2020 00:00:00 +0000</lastBuildDate>
+    
+	<atom:link href="/abstrakt/index.xml" rel="self" type="application/rss+xml" />
+    
+    
+    <item>
+      <title>oT2008 / 80x120 / Acryl / 480 €</title>
+      <link>/abstrakt/ot2008/</link>
+      <pubDate>Tue, 18 Aug 2020 00:00:00 +0000</pubDate>
+      
+      <guid>/abstrakt/ot2008/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>oT 1810 / 80x120 / Acryl / 480 €</title>
+      <link>/abstrakt/ot1810/</link>
+      <pubDate>Wed, 14 Nov 2018 00:00:00 +0000</pubDate>
+      
+      <guid>/abstrakt/ot1810/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>oT 1710 / 80x80 / Acryl / 320 €</title>
+      <link>/abstrakt/ot1710/</link>
+      <pubDate>Sun, 22 Oct 2017 00:00:00 +0000</pubDate>
+      
+      <guid>/abstrakt/ot1710/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>04 kaefer / 60x60 / Acryl / 450 €</title>
+      <link>/abstrakt/04_kaefer/</link>
+      <pubDate>Fri, 20 Oct 2017 00:00:00 +0000</pubDate>
+      
+      <guid>/abstrakt/04_kaefer/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>05 Spalte 1 / 60x60 / Acryl / 450 €</title>
+      <link>/abstrakt/05_spalte1/</link>
+      <pubDate>Fri, 20 Oct 2017 00:00:00 +0000</pubDate>
+      
+      <guid>/abstrakt/05_spalte1/</guid>
+      <description></description>
+    </item>
+    
+  </channel>
+</rss>

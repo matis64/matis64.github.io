@@ -1,0 +1,69 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Tags on Grid</title>
+    <link>/tags/</link>
+    <description>Recent content in Tags on Grid</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en-us</language>
+    <copyright>Copyright &amp;#169; by Your Name</copyright>
+    
+	<atom:link href="/tags/index.xml" rel="self" type="application/rss+xml" />
+    
+    
+    <item>
+      <title>a tag with spaces</title>
+      <link>/tags/a-tag-with-spaces/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>/tags/a-tag-with-spaces/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>another tag</title>
+      <link>/tags/another-tag/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>/tags/another-tag/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>much animation</title>
+      <link>/tags/much-animation/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>/tags/much-animation/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>such move</title>
+      <link>/tags/such-move/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>/tags/such-move/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>very html5</title>
+      <link>/tags/very-html5/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>/tags/very-html5/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>wow</title>
+      <link>/tags/wow/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>/tags/wow/</guid>
+      <description></description>
+    </item>
+    
+  </channel>
+</rss>
