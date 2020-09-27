@@ -2,40 +2,40 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>ZzBlogs on MatisMaler Bilder</title>
-    <link>www.matismaler.de/zzblog/</link>
+    <link>../zzblog/</link>
     <description>Recent content in ZzBlogs on MatisMaler Bilder</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>de-de</language>
     <copyright>Copyright &amp;#169; by MatisMaler</copyright>
     <lastBuildDate>Sat, 01 Aug 2020 21:18:53 +0200</lastBuildDate>
     
-	<atom:link href="www.matismaler.de/zzblog/index.xml" rel="self" type="application/rss+xml" />
+	<atom:link href="../zzblog/index.xml" rel="self" type="application/rss+xml" />
     
     
     <item>
       <title>stuttgart</title>
-      <link>www.matismaler.de/zzblog/00_events/</link>
+      <link>../zzblog/00_events/</link>
       <pubDate>Sat, 01 Aug 2020 21:18:53 +0200</pubDate>
       
-      <guid>www.matismaler.de/zzblog/00_events/</guid>
+      <guid>../zzblog/00_events/</guid>
       <description></description>
     </item>
     
     <item>
       <title>skifahren</title>
-      <link>www.matismaler.de/zzblog/02_petroglyphen/</link>
+      <link>../zzblog/02_petroglyphen/</link>
       <pubDate>Sat, 01 Aug 2015 21:18:53 +0200</pubDate>
       
-      <guid>www.matismaler.de/zzblog/02_petroglyphen/</guid>
+      <guid>../zzblog/02_petroglyphen/</guid>
       <description></description>
     </item>
     
     <item>
       <title>Über Mich</title>
-      <link>www.matismaler.de/zzblog/01_uebermcih/</link>
+      <link>../zzblog/01_uebermcih/</link>
       <pubDate>Sat, 01 Aug 1964 21:18:53 +0200</pubDate>
       
-      <guid>www.matismaler.de/zzblog/01_uebermcih/</guid>
+      <guid>../zzblog/01_uebermcih/</guid>
       <description>Lebenslauf hier steht der text
 Lorem ipsum dolor sit amet, consectetur adipiscing elit. Suspendisse vulputate vehicula mi id fringilla. Interdum et malesuada fames ac ante ipsum primis in faucibus. Vestibulum ante ipsum primis in faucibus orci luctus et ultrices posuere cubilia Curae; Proin rutrum vestibulum quam vitae ultrices. Suspendisse dui tortor, suscipit id augue et, placerat placerat ipsum. Nam vulputate ex eget varius convallis. Nullam mollis egestas ex eget faucibus. Maecenas ut est a diam ullamcorper aliquet at vel ante.</description>
     </item>

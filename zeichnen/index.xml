@@ -2,31 +2,31 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>Zeichnens on MatisMaler Bilder</title>
-    <link>www.matismaler.de/zeichnen/</link>
+    <link>../zeichnen/</link>
     <description>Recent content in Zeichnens on MatisMaler Bilder</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>de-de</language>
     <copyright>Copyright &amp;#169; by MatisMaler</copyright>
     <lastBuildDate>Wed, 01 Jan 2020 00:00:00 +0000</lastBuildDate>
     
-	<atom:link href="www.matismaler.de/zeichnen/index.xml" rel="self" type="application/rss+xml" />
+	<atom:link href="../zeichnen/index.xml" rel="self" type="application/rss+xml" />
     
     
     <item>
       <title>ze01 / 20x30 /  / </title>
-      <link>www.matismaler.de/zeichnen/ze01/</link>
+      <link>../zeichnen/ze01/</link>
       <pubDate>Wed, 01 Jan 2020 00:00:00 +0000</pubDate>
       
-      <guid>www.matismaler.de/zeichnen/ze01/</guid>
+      <guid>../zeichnen/ze01/</guid>
       <description></description>
     </item>
     
     <item>
       <title>ze02 / 20x30 /  / </title>
-      <link>www.matismaler.de/zeichnen/ze02/</link>
+      <link>../zeichnen/ze02/</link>
       <pubDate>Wed, 01 Jan 2020 00:00:00 +0000</pubDate>
       
-      <guid>www.matismaler.de/zeichnen/ze02/</guid>
+      <guid>../zeichnen/ze02/</guid>
       <description></description>
     </item>
     
