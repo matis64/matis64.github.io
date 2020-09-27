@@ -1,279 +1,547 @@
 <?xml version="1.0" encoding="utf-8" standalone="yes"?>
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
-    <title>Grid</title>
-    <link>/</link>
-    <description>Recent content on Grid</description>
+    <title>MatisMaler Bilder</title>
+    <link>www.matismaler.de/</link>
+    <description>Recent content on MatisMaler Bilder</description>
     <generator>Hugo -- gohugo.io</generator>
-    <language>en-us</language>
-    <copyright>Copyright &amp;#169; by Your Name</copyright>
-    <lastBuildDate>Tue, 18 Aug 2020 00:00:00 +0000</lastBuildDate>
+    <language>de-de</language>
+    <copyright>Copyright &amp;#169; by MatisMaler</copyright>
+    <lastBuildDate>Sat, 01 Aug 2020 21:18:53 +0200</lastBuildDate>
     
-	<atom:link href="/index.xml" rel="self" type="application/rss+xml" />
+	<atom:link href="www.matismaler.de/index.xml" rel="self" type="application/rss+xml" />
     
-    
-    <item>
-      <title>Video</title>
-      <link>/project/video/</link>
-      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
-      
-      <guid>/project/video/</guid>
-      <description>Videos can be provided via:
-video_mp4 = &amp;quot;/vid/vid_480x320.mp4&amp;quot;video_webm = &amp;quot;/vid/vid_480x320.webm&amp;quot;video_ogv = &amp;quot;/vid/vid_480x320.ogv&amp;quot;video_3gp = &amp;quot;/vid/vid_352x288.3gp&amp;quot;video_fallback = &amp;quot;/img/car.jpg&amp;quot;Each value is optional. If the fallback image is provided, it will be used as both the poster of the video and the fallback if the browser does not support HTML5 video.
-You can use the partial for a video via:
-.Scratch.Set &amp;quot;class&amp;quot; &amp;quot;some extra CSS classes on video tag&amp;quot;{{ partial &amp;quot;extra/video.</description>
-    </item>
     
     <item>
-      <title>oT2008 / 80x120 / Acryl / 480 €</title>
-      <link>/abstrakt/ot2008/</link>
-      <pubDate>Tue, 18 Aug 2020 00:00:00 +0000</pubDate>
+      <title>stuttgart</title>
+      <link>www.matismaler.de/zzblog/00_events/</link>
+      <pubDate>Sat, 01 Aug 2020 21:18:53 +0200</pubDate>
       
-      <guid>/abstrakt/ot2008/</guid>
+      <guid>www.matismaler.de/zzblog/00_events/</guid>
       <description></description>
     </item>
     
     <item>
-      <title>Schwarzwald</title>
-      <link>/post/schwarzwald/</link>
-      <pubDate>Sat, 01 Aug 2020 21:18:53 +0200</pubDate>
+      <title>ab22 / 80x120 / Acryl / 480 €</title>
+      <link>www.matismaler.de/abstrakt/ab22/</link>
+      <pubDate>Wed, 01 Jul 2020 00:00:00 +0000</pubDate>
       
-      <guid>/post/schwarzwald/</guid>
+      <guid>www.matismaler.de/abstrakt/ab22/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>ab26 / 100x120 / Acryl / 600 €</title>
+      <link>www.matismaler.de/abstrakt/ab26/</link>
+      <pubDate>Wed, 01 Jul 2020 00:00:00 +0000</pubDate>
+      
+      <guid>www.matismaler.de/abstrakt/ab26/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>ab16 / 100x200 / Acryl / 500 €</title>
+      <link>www.matismaler.de/abstrakt/ab16/</link>
+      <pubDate>Wed, 01 Apr 2020 00:00:00 +0000</pubDate>
+      
+      <guid>www.matismaler.de/abstrakt/ab16/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>ab18 / 60x60 / Acryl / 180 €</title>
+      <link>www.matismaler.de/abstrakt/ab18/</link>
+      <pubDate>Sat, 01 Feb 2020 00:00:00 +0000</pubDate>
+      
+      <guid>www.matismaler.de/abstrakt/ab18/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>ab19 / 100x200 / Acryl / 500 €</title>
+      <link>www.matismaler.de/abstrakt/ab19/</link>
+      <pubDate>Sat, 01 Feb 2020 00:00:00 +0000</pubDate>
+      
+      <guid>www.matismaler.de/abstrakt/ab19/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>ab02 / 100x200 / Acryl / 500 €</title>
+      <link>www.matismaler.de/abstrakt/ab02/</link>
+      <pubDate>Wed, 01 Jan 2020 00:00:00 +0000</pubDate>
+      
+      <guid>www.matismaler.de/abstrakt/ab02/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>ab04 / 60x60 / Öl / 270 €</title>
+      <link>www.matismaler.de/abstrakt/ab04/</link>
+      <pubDate>Wed, 01 Jan 2020 00:00:00 +0000</pubDate>
+      
+      <guid>www.matismaler.de/abstrakt/ab04/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>ab06 / 40x60 / Öl / 180 €</title>
+      <link>www.matismaler.de/abstrakt/ab06/</link>
+      <pubDate>Wed, 01 Jan 2020 00:00:00 +0000</pubDate>
+      
+      <guid>www.matismaler.de/abstrakt/ab06/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>la01 / 100x120 / Öl / </title>
+      <link>www.matismaler.de/landschaft/la01/</link>
+      <pubDate>Wed, 01 Jan 2020 00:00:00 +0000</pubDate>
+      
+      <guid>www.matismaler.de/landschaft/la01/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>la02 / 8x120 / Acryl / </title>
+      <link>www.matismaler.de/landschaft/la02/</link>
+      <pubDate>Wed, 01 Jan 2020 00:00:00 +0000</pubDate>
+      
+      <guid>www.matismaler.de/landschaft/la02/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>la03 / 20x30 / Kohle / </title>
+      <link>www.matismaler.de/landschaft/la03/</link>
+      <pubDate>Wed, 01 Jan 2020 00:00:00 +0000</pubDate>
+      
+      <guid>www.matismaler.de/landschaft/la03/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>la04 / 20x30 / Kohle / </title>
+      <link>www.matismaler.de/landschaft/la04/</link>
+      <pubDate>Wed, 01 Jan 2020 00:00:00 +0000</pubDate>
+      
+      <guid>www.matismaler.de/landschaft/la04/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>la05 / 20x30 / Kohle / </title>
+      <link>www.matismaler.de/landschaft/la05/</link>
+      <pubDate>Wed, 01 Jan 2020 00:00:00 +0000</pubDate>
+      
+      <guid>www.matismaler.de/landschaft/la05/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>la06 / 20x30 / Aquarell / </title>
+      <link>www.matismaler.de/landschaft/la06/</link>
+      <pubDate>Wed, 01 Jan 2020 00:00:00 +0000</pubDate>
+      
+      <guid>www.matismaler.de/landschaft/la06/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>la07 / 20x30 / Aquarell / </title>
+      <link>www.matismaler.de/landschaft/la07/</link>
+      <pubDate>Wed, 01 Jan 2020 00:00:00 +0000</pubDate>
+      
+      <guid>www.matismaler.de/landschaft/la07/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>la08 / 20x30 / Kohle / </title>
+      <link>www.matismaler.de/landschaft/la08/</link>
+      <pubDate>Wed, 01 Jan 2020 00:00:00 +0000</pubDate>
+      
+      <guid>www.matismaler.de/landschaft/la08/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>la09 / 20x30 / Kohle / </title>
+      <link>www.matismaler.de/landschaft/la09/</link>
+      <pubDate>Wed, 01 Jan 2020 00:00:00 +0000</pubDate>
+      
+      <guid>www.matismaler.de/landschaft/la09/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>la10 / 20x30 / Kohle / </title>
+      <link>www.matismaler.de/landschaft/la10/</link>
+      <pubDate>Wed, 01 Jan 2020 00:00:00 +0000</pubDate>
+      
+      <guid>www.matismaler.de/landschaft/la10/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>pe01 / 80x100 / Acryl / 400 €</title>
+      <link>www.matismaler.de/petroglyphen/pe01/</link>
+      <pubDate>Wed, 01 Jan 2020 00:00:00 +0000</pubDate>
+      
+      <guid>www.matismaler.de/petroglyphen/pe01/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>pe02 / 80x80 / Acryl / 320 €</title>
+      <link>www.matismaler.de/petroglyphen/pe02/</link>
+      <pubDate>Wed, 01 Jan 2020 00:00:00 +0000</pubDate>
+      
+      <guid>www.matismaler.de/petroglyphen/pe02/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>pe03 / 40x60 / Acryl / 120 €</title>
+      <link>www.matismaler.de/petroglyphen/pe03/</link>
+      <pubDate>Wed, 01 Jan 2020 00:00:00 +0000</pubDate>
+      
+      <guid>www.matismaler.de/petroglyphen/pe03/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>pe04 / 80x80 / Acryl / 320 €</title>
+      <link>www.matismaler.de/petroglyphen/pe04/</link>
+      <pubDate>Wed, 01 Jan 2020 00:00:00 +0000</pubDate>
+      
+      <guid>www.matismaler.de/petroglyphen/pe04/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>pe05 / 80x80 / Acryl / 320 €</title>
+      <link>www.matismaler.de/petroglyphen/pe05/</link>
+      <pubDate>Wed, 01 Jan 2020 00:00:00 +0000</pubDate>
+      
+      <guid>www.matismaler.de/petroglyphen/pe05/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>pe06 / 100x200 / Acryl / 500 €</title>
+      <link>www.matismaler.de/petroglyphen/pe06/</link>
+      <pubDate>Wed, 01 Jan 2020 00:00:00 +0000</pubDate>
+      
+      <guid>www.matismaler.de/petroglyphen/pe06/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>po01 / 20x30 / Aquarell / </title>
+      <link>www.matismaler.de/portrait/po01/</link>
+      <pubDate>Wed, 01 Jan 2020 00:00:00 +0000</pubDate>
+      
+      <guid>www.matismaler.de/portrait/po01/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>po02 / 20x30 / Aquarell / </title>
+      <link>www.matismaler.de/portrait/po02/</link>
+      <pubDate>Wed, 01 Jan 2020 00:00:00 +0000</pubDate>
+      
+      <guid>www.matismaler.de/portrait/po02/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>po03 / 20x30 / Aquarell / </title>
+      <link>www.matismaler.de/portrait/po03/</link>
+      <pubDate>Wed, 01 Jan 2020 00:00:00 +0000</pubDate>
+      
+      <guid>www.matismaler.de/portrait/po03/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>po04 / 20x30 / Aquarell / </title>
+      <link>www.matismaler.de/portrait/po04/</link>
+      <pubDate>Wed, 01 Jan 2020 00:00:00 +0000</pubDate>
+      
+      <guid>www.matismaler.de/portrait/po04/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>po05 / 20x30 / Acryl / </title>
+      <link>www.matismaler.de/portrait/po05/</link>
+      <pubDate>Wed, 01 Jan 2020 00:00:00 +0000</pubDate>
+      
+      <guid>www.matismaler.de/portrait/po05/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>po06 / 80x80 / Acryl / </title>
+      <link>www.matismaler.de/portrait/po06/</link>
+      <pubDate>Wed, 01 Jan 2020 00:00:00 +0000</pubDate>
+      
+      <guid>www.matismaler.de/portrait/po06/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>po07 / 80x80 / Acryl / </title>
+      <link>www.matismaler.de/portrait/po07/</link>
+      <pubDate>Wed, 01 Jan 2020 00:00:00 +0000</pubDate>
+      
+      <guid>www.matismaler.de/portrait/po07/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>po08 / 40x60 / Acryl / </title>
+      <link>www.matismaler.de/portrait/po08/</link>
+      <pubDate>Wed, 01 Jan 2020 00:00:00 +0000</pubDate>
+      
+      <guid>www.matismaler.de/portrait/po08/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>po09 / 40x60 / Acryl / </title>
+      <link>www.matismaler.de/portrait/po09/</link>
+      <pubDate>Wed, 01 Jan 2020 00:00:00 +0000</pubDate>
+      
+      <guid>www.matismaler.de/portrait/po09/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>ze01 / 20x30 /  / </title>
+      <link>www.matismaler.de/zeichnen/ze01/</link>
+      <pubDate>Wed, 01 Jan 2020 00:00:00 +0000</pubDate>
+      
+      <guid>www.matismaler.de/zeichnen/ze01/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>ze02 / 20x30 /  / </title>
+      <link>www.matismaler.de/zeichnen/ze02/</link>
+      <pubDate>Wed, 01 Jan 2020 00:00:00 +0000</pubDate>
+      
+      <guid>www.matismaler.de/zeichnen/ze02/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>ab20 / 40x40 / Acryl / 120 €</title>
+      <link>www.matismaler.de/abstrakt/ab20/</link>
+      <pubDate>Sun, 01 Dec 2019 00:00:00 +0000</pubDate>
+      
+      <guid>www.matismaler.de/abstrakt/ab20/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>ab12 / 40x40 / Acryl / 80 €</title>
+      <link>www.matismaler.de/abstrakt/ab12/</link>
+      <pubDate>Sun, 01 Sep 2019 00:00:00 +0000</pubDate>
+      
+      <guid>www.matismaler.de/abstrakt/ab12/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>ab21 / 60x60 / Acryl / 180 €</title>
+      <link>www.matismaler.de/abstrakt/ab21/</link>
+      <pubDate>Sun, 01 Sep 2019 00:00:00 +0000</pubDate>
+      
+      <guid>www.matismaler.de/abstrakt/ab21/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>ab11 / 100x120 / Acryl / 600 €</title>
+      <link>www.matismaler.de/abstrakt/ab11/</link>
+      <pubDate>Thu, 01 Aug 2019 00:00:00 +0000</pubDate>
+      
+      <guid>www.matismaler.de/abstrakt/ab11/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>ab03 / 40x40 / Acryl / 120 €</title>
+      <link>www.matismaler.de/abstrakt/ab03/</link>
+      <pubDate>Wed, 01 May 2019 00:00:00 +0000</pubDate>
+      
+      <guid>www.matismaler.de/abstrakt/ab03/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>ab25 / 80x100 / Acryl / 400 €</title>
+      <link>www.matismaler.de/abstrakt/ab25/</link>
+      <pubDate>Thu, 01 Nov 2018 00:00:00 +0000</pubDate>
+      
+      <guid>www.matismaler.de/abstrakt/ab25/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>ab14 / 80x80 / Acryl / 220 €</title>
+      <link>www.matismaler.de/abstrakt/ab14/</link>
+      <pubDate>Sat, 01 Sep 2018 00:00:00 +0000</pubDate>
+      
+      <guid>www.matismaler.de/abstrakt/ab14/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>ab17 / 60x60 / Acryl / 180 €</title>
+      <link>www.matismaler.de/abstrakt/ab17/</link>
+      <pubDate>Sat, 01 Sep 2018 00:00:00 +0000</pubDate>
+      
+      <guid>www.matismaler.de/abstrakt/ab17/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>ab13 / 80x80 / Acryl / 320 €</title>
+      <link>www.matismaler.de/abstrakt/ab13/</link>
+      <pubDate>Wed, 01 Aug 2018 00:00:00 +0000</pubDate>
+      
+      <guid>www.matismaler.de/abstrakt/ab13/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>la11 / 60x60 / Acryl / 180 €</title>
+      <link>www.matismaler.de/landschaft/la11/</link>
+      <pubDate>Wed, 01 Aug 2018 00:00:00 +0000</pubDate>
+      
+      <guid>www.matismaler.de/landschaft/la11/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>la12 / 60x60 / Acryl / 180 €</title>
+      <link>www.matismaler.de/landschaft/la12/</link>
+      <pubDate>Wed, 01 Aug 2018 00:00:00 +0000</pubDate>
+      
+      <guid>www.matismaler.de/landschaft/la12/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>la13 / 60x60 / Acryl / 180 €</title>
+      <link>www.matismaler.de/landschaft/la13/</link>
+      <pubDate>Wed, 01 Aug 2018 00:00:00 +0000</pubDate>
+      
+      <guid>www.matismaler.de/landschaft/la13/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>la14 / 60x60 / Acryl / 180 €</title>
+      <link>www.matismaler.de/landschaft/la14/</link>
+      <pubDate>Wed, 01 Aug 2018 00:00:00 +0000</pubDate>
+      
+      <guid>www.matismaler.de/landschaft/la14/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>ab15 / 80x80 / Acryl / 320 €</title>
+      <link>www.matismaler.de/abstrakt/ab15/</link>
+      <pubDate>Tue, 01 May 2018 00:00:00 +0000</pubDate>
+      
+      <guid>www.matismaler.de/abstrakt/ab15/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>ab01 / 40x40 / Acryl / 180 €</title>
+      <link>www.matismaler.de/abstrakt/ab01/</link>
+      <pubDate>Sun, 01 Apr 2018 00:00:00 +0000</pubDate>
+      
+      <guid>www.matismaler.de/abstrakt/ab01/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>ab09 / 60x60 / Acryl / 180 €</title>
+      <link>www.matismaler.de/abstrakt/ab09/</link>
+      <pubDate>Thu, 01 Mar 2018 00:00:00 +0000</pubDate>
+      
+      <guid>www.matismaler.de/abstrakt/ab09/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>ab24 / 80x80 / Acryl / 320 €</title>
+      <link>www.matismaler.de/abstrakt/ab24/</link>
+      <pubDate>Sun, 01 Oct 2017 00:00:00 +0000</pubDate>
+      
+      <guid>www.matismaler.de/abstrakt/ab24/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>ab05 / 80x80 / Acryl / 180 €</title>
+      <link>www.matismaler.de/abstrakt/ab05/</link>
+      <pubDate>Tue, 01 Aug 2017 00:00:00 +0000</pubDate>
+      
+      <guid>www.matismaler.de/abstrakt/ab05/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>ab07 / 40x60 / Acryl / 120 €</title>
+      <link>www.matismaler.de/abstrakt/ab07/</link>
+      <pubDate>Tue, 01 Aug 2017 00:00:00 +0000</pubDate>
+      
+      <guid>www.matismaler.de/abstrakt/ab07/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>ab10 / 40x60 / Acryl / 120 €</title>
+      <link>www.matismaler.de/abstrakt/ab10/</link>
+      <pubDate>Thu, 01 Dec 2016 00:00:00 +0000</pubDate>
+      
+      <guid>www.matismaler.de/abstrakt/ab10/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>ab23 / 60x60 / Acryl / 180 €</title>
+      <link>www.matismaler.de/abstrakt/ab23/</link>
+      <pubDate>Fri, 01 Jul 2016 00:00:00 +0000</pubDate>
+      
+      <guid>www.matismaler.de/abstrakt/ab23/</guid>
       <description></description>
     </item>
     
     <item>
       <title>skifahren</title>
-      <link>/post/skifahren/</link>
-      <pubDate>Sat, 01 Aug 2020 21:18:53 +0200</pubDate>
+      <link>www.matismaler.de/zzblog/02_petroglyphen/</link>
+      <pubDate>Sat, 01 Aug 2015 21:18:53 +0200</pubDate>
       
-      <guid>/post/skifahren/</guid>
+      <guid>www.matismaler.de/zzblog/02_petroglyphen/</guid>
       <description></description>
     </item>
     
     <item>
-      <title>stuttgart</title>
-      <link>/post/stuttgart/</link>
-      <pubDate>Sat, 01 Aug 2020 21:18:53 +0200</pubDate>
+      <title>Über Mich</title>
+      <link>www.matismaler.de/zzblog/01_uebermcih/</link>
+      <pubDate>Sat, 01 Aug 1964 21:18:53 +0200</pubDate>
       
-      <guid>/post/stuttgart/</guid>
-      <description></description>
-    </item>
-    
-    <item>
-      <title>Junge/ 80x120 / Acryl / 1500 €</title>
-      <link>/portrait/01_fluss/</link>
-      <pubDate>Wed, 14 Nov 2018 00:00:00 +0000</pubDate>
-      
-      <guid>/portrait/01_fluss/</guid>
-      <description></description>
-    </item>
-    
-    <item>
-      <title>Linien 1 / 20x30 / Aquarell / 30 €</title>
-      <link>/zeichnen/01_fluss/</link>
-      <pubDate>Wed, 14 Nov 2018 00:00:00 +0000</pubDate>
-      
-      <guid>/zeichnen/01_fluss/</guid>
-      <description></description>
-    </item>
-    
-    <item>
-      <title>oT 1810 / 80x120 / Acryl / 480 €</title>
-      <link>/abstrakt/ot1810/</link>
-      <pubDate>Wed, 14 Nov 2018 00:00:00 +0000</pubDate>
-      
-      <guid>/abstrakt/ot1810/</guid>
-      <description></description>
-    </item>
-    
-    <item>
-      <title>Petroglypen 10 / 80x80 / Acryl / 320 €</title>
-      <link>/petroglyphen/037/</link>
-      <pubDate>Wed, 14 Nov 2018 00:00:00 +0000</pubDate>
-      
-      <guid>/petroglyphen/037/</guid>
-      <description></description>
-    </item>
-    
-    <item>
-      <title>Schwenninger Moos / 20x30 / Aquarell / 30 €</title>
-      <link>/landschaft/01_fluss/</link>
-      <pubDate>Wed, 14 Nov 2018 00:00:00 +0000</pubDate>
-      
-      <guid>/landschaft/01_fluss/</guid>
-      <description></description>
-    </item>
-    
-    <item>
-      <title>oT 1710 / 80x80 / Acryl / 320 €</title>
-      <link>/abstrakt/ot1710/</link>
-      <pubDate>Sun, 22 Oct 2017 00:00:00 +0000</pubDate>
-      
-      <guid>/abstrakt/ot1710/</guid>
-      <description></description>
-    </item>
-    
-    <item>
-      <title>04 kaefer / 60x60 / Acryl / 450 €</title>
-      <link>/abstrakt/04_kaefer/</link>
-      <pubDate>Fri, 20 Oct 2017 00:00:00 +0000</pubDate>
-      
-      <guid>/abstrakt/04_kaefer/</guid>
-      <description></description>
-    </item>
-    
-    <item>
-      <title>05 Spalte 1 / 60x60 / Acryl / 450 €</title>
-      <link>/abstrakt/05_spalte1/</link>
-      <pubDate>Fri, 20 Oct 2017 00:00:00 +0000</pubDate>
-      
-      <guid>/abstrakt/05_spalte1/</guid>
-      <description></description>
-    </item>
-    
-    <item>
-      <title>lb1910/ 20x30 / Aquarell / 30 €</title>
-      <link>/landschaft/lb1910/</link>
-      <pubDate>Fri, 20 Oct 2017 00:00:00 +0000</pubDate>
-      
-      <guid>/landschaft/lb1910/</guid>
-      <description></description>
-    </item>
-    
-    <item>
-      <title>Linien 2 / 20x30 / Aquarell / 30 €</title>
-      <link>/zeichnen/02_rot/</link>
-      <pubDate>Fri, 20 Oct 2017 00:00:00 +0000</pubDate>
-      
-      <guid>/zeichnen/02_rot/</guid>
-      <description></description>
-    </item>
-    
-    <item>
-      <title>Mann / 20x30 / Aquarell / 30 €</title>
-      <link>/portrait/02_rot/</link>
-      <pubDate>Fri, 20 Oct 2017 00:00:00 +0000</pubDate>
-      
-      <guid>/portrait/02_rot/</guid>
-      <description></description>
-    </item>
-    
-    <item>
-      <title>Petroglypen 10 / 80x80 / Acryl / 320 €</title>
-      <link>/petroglyphen/02_rot/</link>
-      <pubDate>Fri, 20 Oct 2017 00:00:00 +0000</pubDate>
-      
-      <guid>/petroglyphen/02_rot/</guid>
-      <description></description>
-    </item>
-    
-    <item>
-      <title>Another Car</title>
-      <link>/project/anothercar/</link>
-      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
-      
-      <guid>/project/anothercar/</guid>
-      <description>Project content would go here. You can also redirect using the front matter redirect = &amp;quot;url&amp;quot;.</description>
-    </item>
-    
-    <item>
-      <title>Another Cup</title>
-      <link>/project/anothercup/</link>
-      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
-      
-      <guid>/project/anothercup/</guid>
-      <description>Project content would go here. You can also redirect using the front matter redirect = &amp;quot;url&amp;quot;.</description>
-    </item>
-    
-    <item>
-      <title>Car</title>
-      <link>/project/car/</link>
-      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
-      
-      <guid>/project/car/</guid>
-      <description>Project content would go here. You can also redirect using the front matter redirect = &amp;quot;url&amp;quot;.</description>
-    </item>
-    
-    <item>
-      <title>Cup</title>
-      <link>/project/cup/</link>
-      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
-      
-      <guid>/project/cup/</guid>
-      <description>Project content would go here. You can also redirect using the front matter redirect = &amp;quot;url&amp;quot;.</description>
-    </item>
-    
-    <item>
-      <title>Drone</title>
-      <link>/project/anotherdrone/</link>
-      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
-      
-      <guid>/project/anotherdrone/</guid>
-      <description>Project content would go here. You can also redirect using the front matter redirect = &amp;quot;url&amp;quot;.</description>
-    </item>
-    
-    <item>
-      <title>Drone</title>
-      <link>/project/drone/</link>
-      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
-      
-      <guid>/project/drone/</guid>
-      <description>Project content would go here. You can also redirect using the front matter redirect = &amp;quot;url&amp;quot;.</description>
-    </item>
-    
-    <item>
-      <title>Food</title>
-      <link>/project/anotherfood/</link>
-      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
-      
-      <guid>/project/anotherfood/</guid>
-      <description>Project content would go here. You can also redirect using the front matter redirect = &amp;quot;url&amp;quot;.</description>
-    </item>
-    
-    <item>
-      <title>Food</title>
-      <link>/project/food/</link>
-      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
-      
-      <guid>/project/food/</guid>
-      <description>Project content would go here. You can also redirect using the front matter redirect = &amp;quot;url&amp;quot;.</description>
-    </item>
-    
-    <item>
-      <title>Jars</title>
-      <link>/project/anotherjars/</link>
-      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
-      
-      <guid>/project/anotherjars/</guid>
-      <description>Project content would go here. You can also redirect using the front matter redirect = &amp;quot;url&amp;quot;.</description>
-    </item>
-    
-    <item>
-      <title>Jars</title>
-      <link>/project/jars/</link>
-      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
-      
-      <guid>/project/jars/</guid>
-      <description>Project content would go here. You can also redirect using the front matter redirect = &amp;quot;url&amp;quot;.</description>
-    </item>
-    
-    <item>
-      <title>Phone</title>
-      <link>/project/anotherphone/</link>
-      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
-      
-      <guid>/project/anotherphone/</guid>
-      <description>Project content would go here. You can also redirect using the front matter redirect = &amp;quot;url&amp;quot;.</description>
-    </item>
-    
-    <item>
-      <title>Phone</title>
-      <link>/project/phone/</link>
-      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
-      
-      <guid>/project/phone/</guid>
-      <description>Project content would go here. You can also redirect using the front matter redirect = &amp;quot;url&amp;quot;.</description>
+      <guid>www.matismaler.de/zzblog/01_uebermcih/</guid>
+      <description>Lebenslauf hier steht der text
+Lorem ipsum dolor sit amet, consectetur adipiscing elit. Suspendisse vulputate vehicula mi id fringilla. Interdum et malesuada fames ac ante ipsum primis in faucibus. Vestibulum ante ipsum primis in faucibus orci luctus et ultrices posuere cubilia Curae; Proin rutrum vestibulum quam vitae ultrices. Suspendisse dui tortor, suscipit id augue et, placerat placerat ipsum. Nam vulputate ex eget varius convallis. Nullam mollis egestas ex eget faucibus. Maecenas ut est a diam ullamcorper aliquet at vel ante.</description>
     </item>
     
   </channel>

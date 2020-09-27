@@ -1,32 +1,32 @@
 <?xml version="1.0" encoding="utf-8" standalone="yes"?>
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
-    <title>Zeichnens on Grid</title>
-    <link>/zeichnen/</link>
-    <description>Recent content in Zeichnens on Grid</description>
+    <title>Zeichnens on MatisMaler Bilder</title>
+    <link>www.matismaler.de/zeichnen/</link>
+    <description>Recent content in Zeichnens on MatisMaler Bilder</description>
     <generator>Hugo -- gohugo.io</generator>
-    <language>en-us</language>
-    <copyright>Copyright &amp;#169; by Your Name</copyright>
-    <lastBuildDate>Wed, 14 Nov 2018 00:00:00 +0000</lastBuildDate>
+    <language>de-de</language>
+    <copyright>Copyright &amp;#169; by MatisMaler</copyright>
+    <lastBuildDate>Wed, 01 Jan 2020 00:00:00 +0000</lastBuildDate>
     
-	<atom:link href="/zeichnen/index.xml" rel="self" type="application/rss+xml" />
+	<atom:link href="www.matismaler.de/zeichnen/index.xml" rel="self" type="application/rss+xml" />
     
     
     <item>
-      <title>Linien 1 / 20x30 / Aquarell / 30 €</title>
-      <link>/zeichnen/01_fluss/</link>
-      <pubDate>Wed, 14 Nov 2018 00:00:00 +0000</pubDate>
+      <title>ze01 / 20x30 /  / </title>
+      <link>www.matismaler.de/zeichnen/ze01/</link>
+      <pubDate>Wed, 01 Jan 2020 00:00:00 +0000</pubDate>
       
-      <guid>/zeichnen/01_fluss/</guid>
+      <guid>www.matismaler.de/zeichnen/ze01/</guid>
       <description></description>
     </item>
     
     <item>
-      <title>Linien 2 / 20x30 / Aquarell / 30 €</title>
-      <link>/zeichnen/02_rot/</link>
-      <pubDate>Fri, 20 Oct 2017 00:00:00 +0000</pubDate>
+      <title>ze02 / 20x30 /  / </title>
+      <link>www.matismaler.de/zeichnen/ze02/</link>
+      <pubDate>Wed, 01 Jan 2020 00:00:00 +0000</pubDate>
       
-      <guid>/zeichnen/02_rot/</guid>
+      <guid>www.matismaler.de/zeichnen/ze02/</guid>
       <description></description>
     </item>
     

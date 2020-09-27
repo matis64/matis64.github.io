@@ -1,59 +1,239 @@
 <?xml version="1.0" encoding="utf-8" standalone="yes"?>
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
-    <title>Abstrakts on Grid</title>
-    <link>/abstrakt/</link>
-    <description>Recent content in Abstrakts on Grid</description>
+    <title>Abstrakts on MatisMaler Bilder</title>
+    <link>www.matismaler.de/abstrakt/</link>
+    <description>Recent content in Abstrakts on MatisMaler Bilder</description>
     <generator>Hugo -- gohugo.io</generator>
-    <language>en-us</language>
-    <copyright>Copyright &amp;#169; by Your Name</copyright>
-    <lastBuildDate>Tue, 18 Aug 2020 00:00:00 +0000</lastBuildDate>
+    <language>de-de</language>
+    <copyright>Copyright &amp;#169; by MatisMaler</copyright>
+    <lastBuildDate>Wed, 01 Jul 2020 00:00:00 +0000</lastBuildDate>
     
-	<atom:link href="/abstrakt/index.xml" rel="self" type="application/rss+xml" />
+	<atom:link href="www.matismaler.de/abstrakt/index.xml" rel="self" type="application/rss+xml" />
     
     
     <item>
-      <title>oT2008 / 80x120 / Acryl / 480 €</title>
-      <link>/abstrakt/ot2008/</link>
-      <pubDate>Tue, 18 Aug 2020 00:00:00 +0000</pubDate>
+      <title>ab22 / 80x120 / Acryl / 480 €</title>
+      <link>www.matismaler.de/abstrakt/ab22/</link>
+      <pubDate>Wed, 01 Jul 2020 00:00:00 +0000</pubDate>
       
-      <guid>/abstrakt/ot2008/</guid>
+      <guid>www.matismaler.de/abstrakt/ab22/</guid>
       <description></description>
     </item>
     
     <item>
-      <title>oT 1810 / 80x120 / Acryl / 480 €</title>
-      <link>/abstrakt/ot1810/</link>
-      <pubDate>Wed, 14 Nov 2018 00:00:00 +0000</pubDate>
+      <title>ab26 / 100x120 / Acryl / 600 €</title>
+      <link>www.matismaler.de/abstrakt/ab26/</link>
+      <pubDate>Wed, 01 Jul 2020 00:00:00 +0000</pubDate>
       
-      <guid>/abstrakt/ot1810/</guid>
+      <guid>www.matismaler.de/abstrakt/ab26/</guid>
       <description></description>
     </item>
     
     <item>
-      <title>oT 1710 / 80x80 / Acryl / 320 €</title>
-      <link>/abstrakt/ot1710/</link>
-      <pubDate>Sun, 22 Oct 2017 00:00:00 +0000</pubDate>
+      <title>ab16 / 100x200 / Acryl / 500 €</title>
+      <link>www.matismaler.de/abstrakt/ab16/</link>
+      <pubDate>Wed, 01 Apr 2020 00:00:00 +0000</pubDate>
       
-      <guid>/abstrakt/ot1710/</guid>
+      <guid>www.matismaler.de/abstrakt/ab16/</guid>
       <description></description>
     </item>
     
     <item>
-      <title>04 kaefer / 60x60 / Acryl / 450 €</title>
-      <link>/abstrakt/04_kaefer/</link>
-      <pubDate>Fri, 20 Oct 2017 00:00:00 +0000</pubDate>
+      <title>ab18 / 60x60 / Acryl / 180 €</title>
+      <link>www.matismaler.de/abstrakt/ab18/</link>
+      <pubDate>Sat, 01 Feb 2020 00:00:00 +0000</pubDate>
       
-      <guid>/abstrakt/04_kaefer/</guid>
+      <guid>www.matismaler.de/abstrakt/ab18/</guid>
       <description></description>
     </item>
     
     <item>
-      <title>05 Spalte 1 / 60x60 / Acryl / 450 €</title>
-      <link>/abstrakt/05_spalte1/</link>
-      <pubDate>Fri, 20 Oct 2017 00:00:00 +0000</pubDate>
+      <title>ab19 / 100x200 / Acryl / 500 €</title>
+      <link>www.matismaler.de/abstrakt/ab19/</link>
+      <pubDate>Sat, 01 Feb 2020 00:00:00 +0000</pubDate>
       
-      <guid>/abstrakt/05_spalte1/</guid>
+      <guid>www.matismaler.de/abstrakt/ab19/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>ab02 / 100x200 / Acryl / 500 €</title>
+      <link>www.matismaler.de/abstrakt/ab02/</link>
+      <pubDate>Wed, 01 Jan 2020 00:00:00 +0000</pubDate>
+      
+      <guid>www.matismaler.de/abstrakt/ab02/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>ab04 / 60x60 / Öl / 270 €</title>
+      <link>www.matismaler.de/abstrakt/ab04/</link>
+      <pubDate>Wed, 01 Jan 2020 00:00:00 +0000</pubDate>
+      
+      <guid>www.matismaler.de/abstrakt/ab04/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>ab06 / 40x60 / Öl / 180 €</title>
+      <link>www.matismaler.de/abstrakt/ab06/</link>
+      <pubDate>Wed, 01 Jan 2020 00:00:00 +0000</pubDate>
+      
+      <guid>www.matismaler.de/abstrakt/ab06/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>ab20 / 40x40 / Acryl / 120 €</title>
+      <link>www.matismaler.de/abstrakt/ab20/</link>
+      <pubDate>Sun, 01 Dec 2019 00:00:00 +0000</pubDate>
+      
+      <guid>www.matismaler.de/abstrakt/ab20/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>ab12 / 40x40 / Acryl / 80 €</title>
+      <link>www.matismaler.de/abstrakt/ab12/</link>
+      <pubDate>Sun, 01 Sep 2019 00:00:00 +0000</pubDate>
+      
+      <guid>www.matismaler.de/abstrakt/ab12/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>ab21 / 60x60 / Acryl / 180 €</title>
+      <link>www.matismaler.de/abstrakt/ab21/</link>
+      <pubDate>Sun, 01 Sep 2019 00:00:00 +0000</pubDate>
+      
+      <guid>www.matismaler.de/abstrakt/ab21/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>ab11 / 100x120 / Acryl / 600 €</title>
+      <link>www.matismaler.de/abstrakt/ab11/</link>
+      <pubDate>Thu, 01 Aug 2019 00:00:00 +0000</pubDate>
+      
+      <guid>www.matismaler.de/abstrakt/ab11/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>ab03 / 40x40 / Acryl / 120 €</title>
+      <link>www.matismaler.de/abstrakt/ab03/</link>
+      <pubDate>Wed, 01 May 2019 00:00:00 +0000</pubDate>
+      
+      <guid>www.matismaler.de/abstrakt/ab03/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>ab25 / 80x100 / Acryl / 400 €</title>
+      <link>www.matismaler.de/abstrakt/ab25/</link>
+      <pubDate>Thu, 01 Nov 2018 00:00:00 +0000</pubDate>
+      
+      <guid>www.matismaler.de/abstrakt/ab25/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>ab14 / 80x80 / Acryl / 220 €</title>
+      <link>www.matismaler.de/abstrakt/ab14/</link>
+      <pubDate>Sat, 01 Sep 2018 00:00:00 +0000</pubDate>
+      
+      <guid>www.matismaler.de/abstrakt/ab14/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>ab17 / 60x60 / Acryl / 180 €</title>
+      <link>www.matismaler.de/abstrakt/ab17/</link>
+      <pubDate>Sat, 01 Sep 2018 00:00:00 +0000</pubDate>
+      
+      <guid>www.matismaler.de/abstrakt/ab17/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>ab13 / 80x80 / Acryl / 320 €</title>
+      <link>www.matismaler.de/abstrakt/ab13/</link>
+      <pubDate>Wed, 01 Aug 2018 00:00:00 +0000</pubDate>
+      
+      <guid>www.matismaler.de/abstrakt/ab13/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>ab15 / 80x80 / Acryl / 320 €</title>
+      <link>www.matismaler.de/abstrakt/ab15/</link>
+      <pubDate>Tue, 01 May 2018 00:00:00 +0000</pubDate>
+      
+      <guid>www.matismaler.de/abstrakt/ab15/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>ab01 / 40x40 / Acryl / 180 €</title>
+      <link>www.matismaler.de/abstrakt/ab01/</link>
+      <pubDate>Sun, 01 Apr 2018 00:00:00 +0000</pubDate>
+      
+      <guid>www.matismaler.de/abstrakt/ab01/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>ab09 / 60x60 / Acryl / 180 €</title>
+      <link>www.matismaler.de/abstrakt/ab09/</link>
+      <pubDate>Thu, 01 Mar 2018 00:00:00 +0000</pubDate>
+      
+      <guid>www.matismaler.de/abstrakt/ab09/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>ab24 / 80x80 / Acryl / 320 €</title>
+      <link>www.matismaler.de/abstrakt/ab24/</link>
+      <pubDate>Sun, 01 Oct 2017 00:00:00 +0000</pubDate>
+      
+      <guid>www.matismaler.de/abstrakt/ab24/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>ab05 / 80x80 / Acryl / 180 €</title>
+      <link>www.matismaler.de/abstrakt/ab05/</link>
+      <pubDate>Tue, 01 Aug 2017 00:00:00 +0000</pubDate>
+      
+      <guid>www.matismaler.de/abstrakt/ab05/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>ab07 / 40x60 / Acryl / 120 €</title>
+      <link>www.matismaler.de/abstrakt/ab07/</link>
+      <pubDate>Tue, 01 Aug 2017 00:00:00 +0000</pubDate>
+      
+      <guid>www.matismaler.de/abstrakt/ab07/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>ab10 / 40x60 / Acryl / 120 €</title>
+      <link>www.matismaler.de/abstrakt/ab10/</link>
+      <pubDate>Thu, 01 Dec 2016 00:00:00 +0000</pubDate>
+      
+      <guid>www.matismaler.de/abstrakt/ab10/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>ab23 / 60x60 / Acryl / 180 €</title>
+      <link>www.matismaler.de/abstrakt/ab23/</link>
+      <pubDate>Fri, 01 Jul 2016 00:00:00 +0000</pubDate>
+      
+      <guid>www.matismaler.de/abstrakt/ab23/</guid>
       <description></description>
     </item>
     

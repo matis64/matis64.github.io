@@ -3,234 +3,341 @@
   xmlns:xhtml="http://www.w3.org/1999/xhtml">
   
   <url>
-    <loc>/project/video/</loc>
-  </url>
-  
-  <url>
-    <loc>/abstrakt/</loc>
-    <lastmod>2020-08-18T00:00:00+00:00</lastmod>
-  </url>
-  
-  <url>
-    <loc>/</loc>
-    <lastmod>2020-08-18T00:00:00+00:00</lastmod>
-  </url>
-  
-  <url>
-    <loc>/abstrakt/ot2008/</loc>
-    <lastmod>2020-08-18T00:00:00+00:00</lastmod>
-  </url>
-  
-  <url>
-    <loc>/post/</loc>
+    <loc>www.matismaler.de/</loc>
     <lastmod>2020-08-01T21:18:53+02:00</lastmod>
   </url>
   
   <url>
-    <loc>/post/schwarzwald/</loc>
+    <loc>www.matismaler.de/zzblog/00_events/</loc>
     <lastmod>2020-08-01T21:18:53+02:00</lastmod>
   </url>
   
   <url>
-    <loc>/post/skifahren/</loc>
+    <loc>www.matismaler.de/zzblog/</loc>
     <lastmod>2020-08-01T21:18:53+02:00</lastmod>
   </url>
   
   <url>
-    <loc>/post/stuttgart/</loc>
-    <lastmod>2020-08-01T21:18:53+02:00</lastmod>
+    <loc>www.matismaler.de/abstrakt/ab22/</loc>
+    <lastmod>2020-07-01T00:00:00+00:00</lastmod>
   </url>
   
   <url>
-    <loc>/portrait/01_fluss/</loc>
-    <lastmod>2018-11-14T00:00:00+00:00</lastmod>
+    <loc>www.matismaler.de/abstrakt/ab26/</loc>
+    <lastmod>2020-07-01T00:00:00+00:00</lastmod>
   </url>
   
   <url>
-    <loc>/landschaft/</loc>
-    <lastmod>2018-11-14T00:00:00+00:00</lastmod>
+    <loc>www.matismaler.de/abstrakt/</loc>
+    <lastmod>2020-07-01T00:00:00+00:00</lastmod>
   </url>
   
   <url>
-    <loc>/zeichnen/01_fluss/</loc>
-    <lastmod>2018-11-14T00:00:00+00:00</lastmod>
+    <loc>www.matismaler.de/abstrakt/ab16/</loc>
+    <lastmod>2020-04-01T00:00:00+00:00</lastmod>
   </url>
   
   <url>
-    <loc>/abstrakt/ot1810/</loc>
-    <lastmod>2018-11-14T00:00:00+00:00</lastmod>
+    <loc>www.matismaler.de/abstrakt/ab18/</loc>
+    <lastmod>2020-02-01T00:00:00+00:00</lastmod>
   </url>
   
   <url>
-    <loc>/petroglyphen/037/</loc>
-    <lastmod>2018-11-14T00:00:00+00:00</lastmod>
+    <loc>www.matismaler.de/abstrakt/ab19/</loc>
+    <lastmod>2020-02-01T00:00:00+00:00</lastmod>
   </url>
   
   <url>
-    <loc>/petroglyphen/</loc>
-    <lastmod>2018-11-14T00:00:00+00:00</lastmod>
+    <loc>www.matismaler.de/abstrakt/ab02/</loc>
+    <lastmod>2020-01-01T00:00:00+00:00</lastmod>
   </url>
   
   <url>
-    <loc>/portrait/</loc>
-    <lastmod>2018-11-14T00:00:00+00:00</lastmod>
+    <loc>www.matismaler.de/abstrakt/ab04/</loc>
+    <lastmod>2020-01-01T00:00:00+00:00</lastmod>
   </url>
   
   <url>
-    <loc>/landschaft/01_fluss/</loc>
-    <lastmod>2018-11-14T00:00:00+00:00</lastmod>
+    <loc>www.matismaler.de/abstrakt/ab06/</loc>
+    <lastmod>2020-01-01T00:00:00+00:00</lastmod>
   </url>
   
   <url>
-    <loc>/zeichnen/</loc>
-    <lastmod>2018-11-14T00:00:00+00:00</lastmod>
+    <loc>www.matismaler.de/landschaft/la01/</loc>
+    <lastmod>2020-01-01T00:00:00+00:00</lastmod>
   </url>
   
   <url>
-    <loc>/abstrakt/ot1710/</loc>
-    <lastmod>2017-10-22T00:00:00+00:00</lastmod>
+    <loc>www.matismaler.de/landschaft/la02/</loc>
+    <lastmod>2020-01-01T00:00:00+00:00</lastmod>
   </url>
   
   <url>
-    <loc>/abstrakt/04_kaefer/</loc>
-    <lastmod>2017-10-20T00:00:00+00:00</lastmod>
+    <loc>www.matismaler.de/landschaft/la03/</loc>
+    <lastmod>2020-01-01T00:00:00+00:00</lastmod>
   </url>
   
   <url>
-    <loc>/abstrakt/05_spalte1/</loc>
-    <lastmod>2017-10-20T00:00:00+00:00</lastmod>
+    <loc>www.matismaler.de/landschaft/la04/</loc>
+    <lastmod>2020-01-01T00:00:00+00:00</lastmod>
   </url>
   
   <url>
-    <loc>/landschaft/lb1910/</loc>
-    <lastmod>2017-10-20T00:00:00+00:00</lastmod>
+    <loc>www.matismaler.de/landschaft/la05/</loc>
+    <lastmod>2020-01-01T00:00:00+00:00</lastmod>
   </url>
   
   <url>
-    <loc>/zeichnen/02_rot/</loc>
-    <lastmod>2017-10-20T00:00:00+00:00</lastmod>
+    <loc>www.matismaler.de/landschaft/la06/</loc>
+    <lastmod>2020-01-01T00:00:00+00:00</lastmod>
   </url>
   
   <url>
-    <loc>/portrait/02_rot/</loc>
-    <lastmod>2017-10-20T00:00:00+00:00</lastmod>
+    <loc>www.matismaler.de/landschaft/la07/</loc>
+    <lastmod>2020-01-01T00:00:00+00:00</lastmod>
   </url>
   
   <url>
-    <loc>/petroglyphen/02_rot/</loc>
-    <lastmod>2017-10-20T00:00:00+00:00</lastmod>
+    <loc>www.matismaler.de/landschaft/la08/</loc>
+    <lastmod>2020-01-01T00:00:00+00:00</lastmod>
   </url>
   
   <url>
-    <loc>/tags/a-tag-with-spaces/</loc>
+    <loc>www.matismaler.de/landschaft/la09/</loc>
+    <lastmod>2020-01-01T00:00:00+00:00</lastmod>
   </url>
   
   <url>
-    <loc>/project/anothercar/</loc>
+    <loc>www.matismaler.de/landschaft/la10/</loc>
+    <lastmod>2020-01-01T00:00:00+00:00</lastmod>
   </url>
   
   <url>
-    <loc>/project/anothercup/</loc>
+    <loc>www.matismaler.de/landschaft/</loc>
+    <lastmod>2020-01-01T00:00:00+00:00</lastmod>
   </url>
   
   <url>
-    <loc>/tags/another-tag/</loc>
+    <loc>www.matismaler.de/petroglyphen/pe01/</loc>
+    <lastmod>2020-01-01T00:00:00+00:00</lastmod>
   </url>
   
   <url>
-    <loc>/project/car/</loc>
+    <loc>www.matismaler.de/petroglyphen/pe02/</loc>
+    <lastmod>2020-01-01T00:00:00+00:00</lastmod>
   </url>
   
   <url>
-    <loc>/categories/car/</loc>
+    <loc>www.matismaler.de/petroglyphen/pe03/</loc>
+    <lastmod>2020-01-01T00:00:00+00:00</lastmod>
   </url>
   
   <url>
-    <loc>/categories/</loc>
+    <loc>www.matismaler.de/petroglyphen/pe04/</loc>
+    <lastmod>2020-01-01T00:00:00+00:00</lastmod>
   </url>
   
   <url>
-    <loc>/project/cup/</loc>
+    <loc>www.matismaler.de/petroglyphen/pe05/</loc>
+    <lastmod>2020-01-01T00:00:00+00:00</lastmod>
   </url>
   
   <url>
-    <loc>/categories/cup/</loc>
+    <loc>www.matismaler.de/petroglyphen/pe06/</loc>
+    <lastmod>2020-01-01T00:00:00+00:00</lastmod>
   </url>
   
   <url>
-    <loc>/project/anotherdrone/</loc>
+    <loc>www.matismaler.de/petroglyphen/</loc>
+    <lastmod>2020-01-01T00:00:00+00:00</lastmod>
   </url>
   
   <url>
-    <loc>/project/drone/</loc>
+    <loc>www.matismaler.de/portrait/po01/</loc>
+    <lastmod>2020-01-01T00:00:00+00:00</lastmod>
   </url>
   
   <url>
-    <loc>/categories/drone/</loc>
+    <loc>www.matismaler.de/portrait/po02/</loc>
+    <lastmod>2020-01-01T00:00:00+00:00</lastmod>
   </url>
   
   <url>
-    <loc>/project/anotherfood/</loc>
+    <loc>www.matismaler.de/portrait/po03/</loc>
+    <lastmod>2020-01-01T00:00:00+00:00</lastmod>
   </url>
   
   <url>
-    <loc>/project/food/</loc>
+    <loc>www.matismaler.de/portrait/po04/</loc>
+    <lastmod>2020-01-01T00:00:00+00:00</lastmod>
   </url>
   
   <url>
-    <loc>/categories/food/</loc>
+    <loc>www.matismaler.de/portrait/po05/</loc>
+    <lastmod>2020-01-01T00:00:00+00:00</lastmod>
   </url>
   
   <url>
-    <loc>/project/anotherjars/</loc>
+    <loc>www.matismaler.de/portrait/po06/</loc>
+    <lastmod>2020-01-01T00:00:00+00:00</lastmod>
   </url>
   
   <url>
-    <loc>/project/jars/</loc>
+    <loc>www.matismaler.de/portrait/po07/</loc>
+    <lastmod>2020-01-01T00:00:00+00:00</lastmod>
   </url>
   
   <url>
-    <loc>/categories/jars/</loc>
+    <loc>www.matismaler.de/portrait/po08/</loc>
+    <lastmod>2020-01-01T00:00:00+00:00</lastmod>
   </url>
   
   <url>
-    <loc>/tags/much-animation/</loc>
+    <loc>www.matismaler.de/portrait/po09/</loc>
+    <lastmod>2020-01-01T00:00:00+00:00</lastmod>
   </url>
   
   <url>
-    <loc>/project/anotherphone/</loc>
+    <loc>www.matismaler.de/portrait/</loc>
+    <lastmod>2020-01-01T00:00:00+00:00</lastmod>
   </url>
   
   <url>
-    <loc>/project/phone/</loc>
+    <loc>www.matismaler.de/zeichnen/ze01/</loc>
+    <lastmod>2020-01-01T00:00:00+00:00</lastmod>
   </url>
   
   <url>
-    <loc>/categories/phone/</loc>
+    <loc>www.matismaler.de/zeichnen/ze02/</loc>
+    <lastmod>2020-01-01T00:00:00+00:00</lastmod>
   </url>
   
   <url>
-    <loc>/project/</loc>
+    <loc>www.matismaler.de/zeichnen/</loc>
+    <lastmod>2020-01-01T00:00:00+00:00</lastmod>
   </url>
   
   <url>
-    <loc>/tags/such-move/</loc>
+    <loc>www.matismaler.de/abstrakt/ab20/</loc>
+    <lastmod>2019-12-01T00:00:00+00:00</lastmod>
   </url>
   
   <url>
-    <loc>/tags/</loc>
+    <loc>www.matismaler.de/abstrakt/ab12/</loc>
+    <lastmod>2019-09-01T00:00:00+00:00</lastmod>
   </url>
   
   <url>
-    <loc>/tags/very-html5/</loc>
+    <loc>www.matismaler.de/abstrakt/ab21/</loc>
+    <lastmod>2019-09-01T00:00:00+00:00</lastmod>
   </url>
   
   <url>
-    <loc>/categories/video/</loc>
+    <loc>www.matismaler.de/abstrakt/ab11/</loc>
+    <lastmod>2019-08-01T00:00:00+00:00</lastmod>
   </url>
   
   <url>
-    <loc>/tags/wow/</loc>
+    <loc>www.matismaler.de/abstrakt/ab03/</loc>
+    <lastmod>2019-05-01T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>www.matismaler.de/abstrakt/ab25/</loc>
+    <lastmod>2018-11-01T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>www.matismaler.de/abstrakt/ab14/</loc>
+    <lastmod>2018-09-01T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>www.matismaler.de/abstrakt/ab17/</loc>
+    <lastmod>2018-09-01T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>www.matismaler.de/abstrakt/ab13/</loc>
+    <lastmod>2018-08-01T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>www.matismaler.de/landschaft/la11/</loc>
+    <lastmod>2018-08-01T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>www.matismaler.de/landschaft/la12/</loc>
+    <lastmod>2018-08-01T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>www.matismaler.de/landschaft/la13/</loc>
+    <lastmod>2018-08-01T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>www.matismaler.de/landschaft/la14/</loc>
+    <lastmod>2018-08-01T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>www.matismaler.de/abstrakt/ab15/</loc>
+    <lastmod>2018-05-01T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>www.matismaler.de/abstrakt/ab01/</loc>
+    <lastmod>2018-04-01T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>www.matismaler.de/abstrakt/ab09/</loc>
+    <lastmod>2018-03-01T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>www.matismaler.de/abstrakt/ab24/</loc>
+    <lastmod>2017-10-01T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>www.matismaler.de/abstrakt/ab05/</loc>
+    <lastmod>2017-08-01T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>www.matismaler.de/abstrakt/ab07/</loc>
+    <lastmod>2017-08-01T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>www.matismaler.de/abstrakt/ab10/</loc>
+    <lastmod>2016-12-01T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>www.matismaler.de/abstrakt/ab23/</loc>
+    <lastmod>2016-07-01T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>www.matismaler.de/zzblog/02_petroglyphen/</loc>
+    <lastmod>2015-08-01T21:18:53+02:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>www.matismaler.de/zzblog/01_uebermcih/</loc>
+    <lastmod>1964-08-01T21:18:53+02:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>www.matismaler.de/categories/</loc>
+  </url>
+  
+  <url>
+    <loc>www.matismaler.de/tags/</loc>
   </url>
   
 </urlset>

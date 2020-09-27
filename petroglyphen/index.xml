@@ -1,32 +1,68 @@
 <?xml version="1.0" encoding="utf-8" standalone="yes"?>
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
-    <title>Petroglyphens on Grid</title>
-    <link>/petroglyphen/</link>
-    <description>Recent content in Petroglyphens on Grid</description>
+    <title>Petroglyphens on MatisMaler Bilder</title>
+    <link>www.matismaler.de/petroglyphen/</link>
+    <description>Recent content in Petroglyphens on MatisMaler Bilder</description>
     <generator>Hugo -- gohugo.io</generator>
-    <language>en-us</language>
-    <copyright>Copyright &amp;#169; by Your Name</copyright>
-    <lastBuildDate>Wed, 14 Nov 2018 00:00:00 +0000</lastBuildDate>
+    <language>de-de</language>
+    <copyright>Copyright &amp;#169; by MatisMaler</copyright>
+    <lastBuildDate>Wed, 01 Jan 2020 00:00:00 +0000</lastBuildDate>
     
-	<atom:link href="/petroglyphen/index.xml" rel="self" type="application/rss+xml" />
+	<atom:link href="www.matismaler.de/petroglyphen/index.xml" rel="self" type="application/rss+xml" />
     
     
     <item>
-      <title>Petroglypen 10 / 80x80 / Acryl / 320 €</title>
-      <link>/petroglyphen/037/</link>
-      <pubDate>Wed, 14 Nov 2018 00:00:00 +0000</pubDate>
+      <title>pe01 / 80x100 / Acryl / 400 €</title>
+      <link>www.matismaler.de/petroglyphen/pe01/</link>
+      <pubDate>Wed, 01 Jan 2020 00:00:00 +0000</pubDate>
       
-      <guid>/petroglyphen/037/</guid>
+      <guid>www.matismaler.de/petroglyphen/pe01/</guid>
       <description></description>
     </item>
     
     <item>
-      <title>Petroglypen 10 / 80x80 / Acryl / 320 €</title>
-      <link>/petroglyphen/02_rot/</link>
-      <pubDate>Fri, 20 Oct 2017 00:00:00 +0000</pubDate>
+      <title>pe02 / 80x80 / Acryl / 320 €</title>
+      <link>www.matismaler.de/petroglyphen/pe02/</link>
+      <pubDate>Wed, 01 Jan 2020 00:00:00 +0000</pubDate>
       
-      <guid>/petroglyphen/02_rot/</guid>
+      <guid>www.matismaler.de/petroglyphen/pe02/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>pe03 / 40x60 / Acryl / 120 €</title>
+      <link>www.matismaler.de/petroglyphen/pe03/</link>
+      <pubDate>Wed, 01 Jan 2020 00:00:00 +0000</pubDate>
+      
+      <guid>www.matismaler.de/petroglyphen/pe03/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>pe04 / 80x80 / Acryl / 320 €</title>
+      <link>www.matismaler.de/petroglyphen/pe04/</link>
+      <pubDate>Wed, 01 Jan 2020 00:00:00 +0000</pubDate>
+      
+      <guid>www.matismaler.de/petroglyphen/pe04/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>pe05 / 80x80 / Acryl / 320 €</title>
+      <link>www.matismaler.de/petroglyphen/pe05/</link>
+      <pubDate>Wed, 01 Jan 2020 00:00:00 +0000</pubDate>
+      
+      <guid>www.matismaler.de/petroglyphen/pe05/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>pe06 / 100x200 / Acryl / 500 €</title>
+      <link>www.matismaler.de/petroglyphen/pe06/</link>
+      <pubDate>Wed, 01 Jan 2020 00:00:00 +0000</pubDate>
+      
+      <guid>www.matismaler.de/petroglyphen/pe06/</guid>
       <description></description>
     </item>
     

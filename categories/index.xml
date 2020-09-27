@@ -1,78 +1,15 @@
 <?xml version="1.0" encoding="utf-8" standalone="yes"?>
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
-    <title>Categories on Grid</title>
-    <link>/categories/</link>
-    <description>Recent content in Categories on Grid</description>
+    <title>Categories on MatisMaler Bilder</title>
+    <link>www.matismaler.de/categories/</link>
+    <description>Recent content in Categories on MatisMaler Bilder</description>
     <generator>Hugo -- gohugo.io</generator>
-    <language>en-us</language>
-    <copyright>Copyright &amp;#169; by Your Name</copyright>
+    <language>de-de</language>
+    <copyright>Copyright &amp;#169; by MatisMaler</copyright>
     
-	<atom:link href="/categories/index.xml" rel="self" type="application/rss+xml" />
+	<atom:link href="www.matismaler.de/categories/index.xml" rel="self" type="application/rss+xml" />
     
-    
-    <item>
-      <title>car</title>
-      <link>/categories/car/</link>
-      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
-      
-      <guid>/categories/car/</guid>
-      <description></description>
-    </item>
-    
-    <item>
-      <title>cup</title>
-      <link>/categories/cup/</link>
-      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
-      
-      <guid>/categories/cup/</guid>
-      <description></description>
-    </item>
-    
-    <item>
-      <title>drone</title>
-      <link>/categories/drone/</link>
-      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
-      
-      <guid>/categories/drone/</guid>
-      <description></description>
-    </item>
-    
-    <item>
-      <title>food</title>
-      <link>/categories/food/</link>
-      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
-      
-      <guid>/categories/food/</guid>
-      <description></description>
-    </item>
-    
-    <item>
-      <title>jars</title>
-      <link>/categories/jars/</link>
-      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
-      
-      <guid>/categories/jars/</guid>
-      <description></description>
-    </item>
-    
-    <item>
-      <title>phone</title>
-      <link>/categories/phone/</link>
-      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
-      
-      <guid>/categories/phone/</guid>
-      <description></description>
-    </item>
-    
-    <item>
-      <title>video</title>
-      <link>/categories/video/</link>
-      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
-      
-      <guid>/categories/video/</guid>
-      <description></description>
-    </item>
     
   </channel>
 </rss>

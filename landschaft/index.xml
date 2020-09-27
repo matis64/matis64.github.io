@@ -1,32 +1,140 @@
 <?xml version="1.0" encoding="utf-8" standalone="yes"?>
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
-    <title>Landschafts on Grid</title>
-    <link>/landschaft/</link>
-    <description>Recent content in Landschafts on Grid</description>
+    <title>Landschafts on MatisMaler Bilder</title>
+    <link>www.matismaler.de/landschaft/</link>
+    <description>Recent content in Landschafts on MatisMaler Bilder</description>
     <generator>Hugo -- gohugo.io</generator>
-    <language>en-us</language>
-    <copyright>Copyright &amp;#169; by Your Name</copyright>
-    <lastBuildDate>Wed, 14 Nov 2018 00:00:00 +0000</lastBuildDate>
+    <language>de-de</language>
+    <copyright>Copyright &amp;#169; by MatisMaler</copyright>
+    <lastBuildDate>Wed, 01 Jan 2020 00:00:00 +0000</lastBuildDate>
     
-	<atom:link href="/landschaft/index.xml" rel="self" type="application/rss+xml" />
+	<atom:link href="www.matismaler.de/landschaft/index.xml" rel="self" type="application/rss+xml" />
     
     
     <item>
-      <title>Schwenninger Moos / 20x30 / Aquarell / 30 €</title>
-      <link>/landschaft/01_fluss/</link>
-      <pubDate>Wed, 14 Nov 2018 00:00:00 +0000</pubDate>
+      <title>la01 / 100x120 / Öl / </title>
+      <link>www.matismaler.de/landschaft/la01/</link>
+      <pubDate>Wed, 01 Jan 2020 00:00:00 +0000</pubDate>
       
-      <guid>/landschaft/01_fluss/</guid>
+      <guid>www.matismaler.de/landschaft/la01/</guid>
       <description></description>
     </item>
     
     <item>
-      <title>lb1910/ 20x30 / Aquarell / 30 €</title>
-      <link>/landschaft/lb1910/</link>
-      <pubDate>Fri, 20 Oct 2017 00:00:00 +0000</pubDate>
+      <title>la02 / 8x120 / Acryl / </title>
+      <link>www.matismaler.de/landschaft/la02/</link>
+      <pubDate>Wed, 01 Jan 2020 00:00:00 +0000</pubDate>
       
-      <guid>/landschaft/lb1910/</guid>
+      <guid>www.matismaler.de/landschaft/la02/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>la03 / 20x30 / Kohle / </title>
+      <link>www.matismaler.de/landschaft/la03/</link>
+      <pubDate>Wed, 01 Jan 2020 00:00:00 +0000</pubDate>
+      
+      <guid>www.matismaler.de/landschaft/la03/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>la04 / 20x30 / Kohle / </title>
+      <link>www.matismaler.de/landschaft/la04/</link>
+      <pubDate>Wed, 01 Jan 2020 00:00:00 +0000</pubDate>
+      
+      <guid>www.matismaler.de/landschaft/la04/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>la05 / 20x30 / Kohle / </title>
+      <link>www.matismaler.de/landschaft/la05/</link>
+      <pubDate>Wed, 01 Jan 2020 00:00:00 +0000</pubDate>
+      
+      <guid>www.matismaler.de/landschaft/la05/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>la06 / 20x30 / Aquarell / </title>
+      <link>www.matismaler.de/landschaft/la06/</link>
+      <pubDate>Wed, 01 Jan 2020 00:00:00 +0000</pubDate>
+      
+      <guid>www.matismaler.de/landschaft/la06/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>la07 / 20x30 / Aquarell / </title>
+      <link>www.matismaler.de/landschaft/la07/</link>
+      <pubDate>Wed, 01 Jan 2020 00:00:00 +0000</pubDate>
+      
+      <guid>www.matismaler.de/landschaft/la07/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>la08 / 20x30 / Kohle / </title>
+      <link>www.matismaler.de/landschaft/la08/</link>
+      <pubDate>Wed, 01 Jan 2020 00:00:00 +0000</pubDate>
+      
+      <guid>www.matismaler.de/landschaft/la08/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>la09 / 20x30 / Kohle / </title>
+      <link>www.matismaler.de/landschaft/la09/</link>
+      <pubDate>Wed, 01 Jan 2020 00:00:00 +0000</pubDate>
+      
+      <guid>www.matismaler.de/landschaft/la09/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>la10 / 20x30 / Kohle / </title>
+      <link>www.matismaler.de/landschaft/la10/</link>
+      <pubDate>Wed, 01 Jan 2020 00:00:00 +0000</pubDate>
+      
+      <guid>www.matismaler.de/landschaft/la10/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>la11 / 60x60 / Acryl / 180 €</title>
+      <link>www.matismaler.de/landschaft/la11/</link>
+      <pubDate>Wed, 01 Aug 2018 00:00:00 +0000</pubDate>
+      
+      <guid>www.matismaler.de/landschaft/la11/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>la12 / 60x60 / Acryl / 180 €</title>
+      <link>www.matismaler.de/landschaft/la12/</link>
+      <pubDate>Wed, 01 Aug 2018 00:00:00 +0000</pubDate>
+      
+      <guid>www.matismaler.de/landschaft/la12/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>la13 / 60x60 / Acryl / 180 €</title>
+      <link>www.matismaler.de/landschaft/la13/</link>
+      <pubDate>Wed, 01 Aug 2018 00:00:00 +0000</pubDate>
+      
+      <guid>www.matismaler.de/landschaft/la13/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>la14 / 60x60 / Acryl / 180 €</title>
+      <link>www.matismaler.de/landschaft/la14/</link>
+      <pubDate>Wed, 01 Aug 2018 00:00:00 +0000</pubDate>
+      
+      <guid>www.matismaler.de/landschaft/la14/</guid>
       <description></description>
     </item>
     

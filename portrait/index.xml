@@ -1,32 +1,95 @@
 <?xml version="1.0" encoding="utf-8" standalone="yes"?>
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
-    <title>Portraits on Grid</title>
-    <link>/portrait/</link>
-    <description>Recent content in Portraits on Grid</description>
+    <title>Portraits on MatisMaler Bilder</title>
+    <link>www.matismaler.de/portrait/</link>
+    <description>Recent content in Portraits on MatisMaler Bilder</description>
     <generator>Hugo -- gohugo.io</generator>
-    <language>en-us</language>
-    <copyright>Copyright &amp;#169; by Your Name</copyright>
-    <lastBuildDate>Wed, 14 Nov 2018 00:00:00 +0000</lastBuildDate>
+    <language>de-de</language>
+    <copyright>Copyright &amp;#169; by MatisMaler</copyright>
+    <lastBuildDate>Wed, 01 Jan 2020 00:00:00 +0000</lastBuildDate>
     
-	<atom:link href="/portrait/index.xml" rel="self" type="application/rss+xml" />
+	<atom:link href="www.matismaler.de/portrait/index.xml" rel="self" type="application/rss+xml" />
     
     
     <item>
-      <title>Junge/ 80x120 / Acryl / 1500 €</title>
-      <link>/portrait/01_fluss/</link>
-      <pubDate>Wed, 14 Nov 2018 00:00:00 +0000</pubDate>
+      <title>po01 / 20x30 / Aquarell / </title>
+      <link>www.matismaler.de/portrait/po01/</link>
+      <pubDate>Wed, 01 Jan 2020 00:00:00 +0000</pubDate>
       
-      <guid>/portrait/01_fluss/</guid>
+      <guid>www.matismaler.de/portrait/po01/</guid>
       <description></description>
     </item>
     
     <item>
-      <title>Mann / 20x30 / Aquarell / 30 €</title>
-      <link>/portrait/02_rot/</link>
-      <pubDate>Fri, 20 Oct 2017 00:00:00 +0000</pubDate>
+      <title>po02 / 20x30 / Aquarell / </title>
+      <link>www.matismaler.de/portrait/po02/</link>
+      <pubDate>Wed, 01 Jan 2020 00:00:00 +0000</pubDate>
       
-      <guid>/portrait/02_rot/</guid>
+      <guid>www.matismaler.de/portrait/po02/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>po03 / 20x30 / Aquarell / </title>
+      <link>www.matismaler.de/portrait/po03/</link>
+      <pubDate>Wed, 01 Jan 2020 00:00:00 +0000</pubDate>
+      
+      <guid>www.matismaler.de/portrait/po03/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>po04 / 20x30 / Aquarell / </title>
+      <link>www.matismaler.de/portrait/po04/</link>
+      <pubDate>Wed, 01 Jan 2020 00:00:00 +0000</pubDate>
+      
+      <guid>www.matismaler.de/portrait/po04/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>po05 / 20x30 / Acryl / </title>
+      <link>www.matismaler.de/portrait/po05/</link>
+      <pubDate>Wed, 01 Jan 2020 00:00:00 +0000</pubDate>
+      
+      <guid>www.matismaler.de/portrait/po05/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>po06 / 80x80 / Acryl / </title>
+      <link>www.matismaler.de/portrait/po06/</link>
+      <pubDate>Wed, 01 Jan 2020 00:00:00 +0000</pubDate>
+      
+      <guid>www.matismaler.de/portrait/po06/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>po07 / 80x80 / Acryl / </title>
+      <link>www.matismaler.de/portrait/po07/</link>
+      <pubDate>Wed, 01 Jan 2020 00:00:00 +0000</pubDate>
+      
+      <guid>www.matismaler.de/portrait/po07/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>po08 / 40x60 / Acryl / </title>
+      <link>www.matismaler.de/portrait/po08/</link>
+      <pubDate>Wed, 01 Jan 2020 00:00:00 +0000</pubDate>
+      
+      <guid>www.matismaler.de/portrait/po08/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>po09 / 40x60 / Acryl / </title>
+      <link>www.matismaler.de/portrait/po09/</link>
+      <pubDate>Wed, 01 Jan 2020 00:00:00 +0000</pubDate>
+      
+      <guid>www.matismaler.de/portrait/po09/</guid>
       <description></description>
     </item>
     
