@@ -7,27 +7,41 @@
     <generator>Hugo -- gohugo.io</generator>
     <language>de-de</language>
     <copyright>Copyright &amp;#169; by MatisMaler</copyright>
-    <lastBuildDate>Sat, 01 Aug 2020 21:18:53 +0200</lastBuildDate>
+    <lastBuildDate>Tue, 01 Sep 2020 21:18:53 +0200</lastBuildDate>
     
 	<atom:link href="../zzblog/index.xml" rel="self" type="application/rss+xml" />
     
     
     <item>
-      <title>stuttgart</title>
+      <title>Atelier Engl</title>
+      <link>../zzblog/03_atelier_engl/</link>
+      <pubDate>Tue, 01 Sep 2020 21:18:53 +0200</pubDate>
+      
+      <guid>../zzblog/03_atelier_engl/</guid>
+      <description>Zusammen mit meinem Malerkollegen Knut Engl im Atelier in Müllheim.
+  Knut ist ein Meister wenn darum geht in abstrakten Bildern eine Stimmung zu erzeugen.
+  Die Bilder ziehen den Betrachter in ihren Bann, der versucht ist die Hintergründe dessen was er sieht zu ergründen. Es ist &amp;ldquo;Etwas&amp;rdquo; umhüllt von einem difusen Licht, etwas Klares.
+ Aber wie bei den meisten abstrakten Bilder geht es nicht darum das Gesehene zu verstehen, sondern die Wirkung dessen was gesehen wird einfach auf sich wirken zu lassen.</description>
+    </item>
+    
+    <item>
+      <title>Events</title>
       <link>../zzblog/00_events/</link>
       <pubDate>Sat, 01 Aug 2020 21:18:53 +0200</pubDate>
       
       <guid>../zzblog/00_events/</guid>
-      <description></description>
+      <description>Hier stehen zukünftig die Ausstellungen
+17.08.20 bis 17.09.20 Werkschau in der Galerie im Altbau</description>
     </item>
     
     <item>
-      <title>skifahren</title>
+      <title>Petroglyphen</title>
       <link>../zzblog/02_petroglyphen/</link>
       <pubDate>Sat, 01 Aug 2015 21:18:53 +0200</pubDate>
       
       <guid>../zzblog/02_petroglyphen/</guid>
-      <description></description>
+      <description>Erläuterung Eine Petroglyphe (von griechisch πέτρος petros „Stein“ und γλύφειν glýphein „schnitzen“) ist ein in Stein gearbeitetes Felsbild (englisch Rock art – Felskunst) aus prähistorischer Zeit. Anders als bei der Felsmalerei ist eine Petroglyphe graviert, geschabt oder gepickt und damit in den Untergrund eingetieft.
+Auf ähnliche Weise ist der Entstehungsprozess der Petroglphen Serie. Der &amp;ldquo;Untergrund&amp;rdquo; des Bildes wird mehrfach freigesetzt und wieder übermalt, bis eine Symbiose aus der Vergangenheit mit der Gegenwart entsteht.</description>
     </item>
     
     <item>
@@ -36,8 +50,10 @@
       <pubDate>Sat, 01 Aug 1964 21:18:53 +0200</pubDate>
       
       <guid>../zzblog/01_uebermcih/</guid>
-      <description>Lebenslauf hier steht der text
-Lorem ipsum dolor sit amet, consectetur adipiscing elit. Suspendisse vulputate vehicula mi id fringilla. Interdum et malesuada fames ac ante ipsum primis in faucibus. Vestibulum ante ipsum primis in faucibus orci luctus et ultrices posuere cubilia Curae; Proin rutrum vestibulum quam vitae ultrices. Suspendisse dui tortor, suscipit id augue et, placerat placerat ipsum. Nam vulputate ex eget varius convallis. Nullam mollis egestas ex eget faucibus. Maecenas ut est a diam ullamcorper aliquet at vel ante.</description>
+      <description>Vita Geboren 1964 war Malen schon immer ein Teil meiner Tätigkeiten.
+Fortbildung in Acrylmalerei in verschiedenen Kursen um die Technik zu verbessern.
+Freischaffender Freigeist in der Freizeit.
+Lebe in Villingen-Schwenningen. Gerne können sie mich über die Mailadresse matis64@gmx.de oder auf der Webseite angegebene Adresse kontaktieren.</description>
     </item>
     
   </channel>
